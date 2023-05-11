@@ -1,0 +1,20 @@
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\MY_APLICATION.MainForm.resources
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\bin\Debug\LOGIN.exe.config
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\bin\Debug\LOGIN.exe
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\bin\Debug\LOGIN.pdb
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\bin\Debug\MySql.Data.dll
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\LOGIN.exe
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\LOGIN.pdb
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\MY_APLICATION.Form1.resources
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\bin\Debug\LOGIN.exe.config
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\bin\Debug\LOGIN.exe
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\bin\Debug\LOGIN.pdb
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\bin\Debug\MySql.Data.dll
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\obj\Debug\MY_APLICATION.MainForm.resources
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\obj\Debug\MY_APLICATION.Form1.resources
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\obj\Debug\LOGIN.exe
+C:\Users\acer\Documents\MY APLICATION\MY APLICATION\obj\Debug\LOGIN.pdb

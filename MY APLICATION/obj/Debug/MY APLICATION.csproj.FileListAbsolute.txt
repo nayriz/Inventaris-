@@ -1,0 +1,9 @@
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\MY APLICATION.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\MY_APLICATION.MainForm.resources
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\MY APLICATION.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\bin\Debug\MY APLICATION.exe.config
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\bin\Debug\MY APLICATION.exe
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\bin\Debug\MY APLICATION.pdb
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\bin\Debug\MySql.Data.dll
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\MY APLICATION.exe
+C:\Users\acer\Documents\SharpDevelop Projects\MY APLICATION\MY APLICATION\obj\Debug\MY APLICATION.pdb
